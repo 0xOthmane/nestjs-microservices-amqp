@@ -1,0 +1,11 @@
+{
+  "material-icon-theme.files.associations": {
+    "*.controller.ts": "nest",
+    "*.module.ts": "nest",
+    "*.service.ts": "nest"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "always",
+    "source.organizeImports": "always"
+  }
+}
